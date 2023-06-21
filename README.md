@@ -13,7 +13,7 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 * JavaScript
 
 # Website
-https://kylean4.github.io/Javascript-module3-Password-generator/.
+https://kylean4.github.io/Javascript-module3-Password-Generator/.
 
 # License
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
